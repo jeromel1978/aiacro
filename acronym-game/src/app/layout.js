@@ -76,7 +76,7 @@ function AuthHeader() {
     <header className="border-b dark:border-gray-700">
       <div className="container mx-auto flex items-center justify-between p-4">
         <Link href="/" className="text-2xl font-bold text-gray-800 dark:text-white">
-          Acro
+          Acronym Game
         </Link>
         <div className="flex items-center space-x-3">
           <DropdownMenu>
